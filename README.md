@@ -50,7 +50,7 @@
 ---
 
 ## 📫 How to Reach Me
-- [LinkedIn]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/avi-srivastava-567067306/ )  
+- [LinkedIn](https://www.linkedin.com/in/avi-srivastava-567067306/)  
 - [GitHub](https://github.com/AviNormie)  
 
 ---
