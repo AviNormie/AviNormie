@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Avi Srivastava]!
+# 👋 Hi, I'm Avi Srivastava!
 
 ## About Me
 - 🎓 First-year B.Tech CSE student at Bennett University.
