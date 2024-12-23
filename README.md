@@ -36,7 +36,7 @@
 ---
 
 ## 🌟 Projects
-- [CityCare](city-care.vercel.app)  
+- [CityCare](CityCare)  
   A web app to seamlessly inetegrate real-time data for pateints and hospitals.  
 - [Nike E-commerce](#)  
   Built using React, Tailwind CSS, Express.js, and MongoDB. Deployed on Vercel.  
