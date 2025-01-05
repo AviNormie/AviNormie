@@ -2,7 +2,7 @@
 
 ## About Me
 - 🎓 First-year B.Tech CSE student at Bennett University.
-- 💻 Passionate about web development and exploring technologies like React, Flask, and MERN stack.
+- 💻 Passionate about web development and exploring technologies like MERN stack, Typescript and NextJS.
 - 🏸 I love playing badminton and chess.
 - 🌱 Currently diving deeper into backend technologies and blockchain.
 
