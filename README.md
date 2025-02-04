@@ -66,8 +66,8 @@ Full-stack e-commerce platform with:
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avisrivastava254084&show_icons=true&theme=radical" alt="GitHub Stats" />&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avisrivastava254084&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AviNormie&show_icons=true&theme=radical" alt="GitHub Stats" />&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AviNormie&theme=radical" alt="GitHub Streak" />
 </div>
 
 ## 🤝 Let's Connect!
