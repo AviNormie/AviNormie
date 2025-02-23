@@ -13,7 +13,6 @@ I'm a first-year B.Tech CSE student at Bennett University, passionate about crea
 - 🌱 Learning **Backend Development** and **Blockchain Technologies**
 - 💡 Interested in **MERN Stack**, **TypeScript**, and **Next.js**
 - 🎯 2025 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
 
 ## 🛠️ Tech Stack
 <div align="center">
