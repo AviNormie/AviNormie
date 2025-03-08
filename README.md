@@ -63,7 +63,7 @@ Healthcare accessibility reimagined:
 - Real-time hospital bed availability tracking
 - Emergency service locator with GPS integration
 - Medical history management system
-- **Tech Stack:** MERN Stack, Redux, MapBox API
+- **Tech Stack:** MERN Stack, Redux, MapBox API, Google API
 
 ### Nike E-commerce
 Full-stack e-commerce platform with:
