@@ -65,14 +65,6 @@ Healthcare accessibility reimagined:
 ✔️ Medical history management system  
 ✔️ **Tech Stack:** MERN Stack, Redux, MapBox API, Google API  
 
-### **👟 Nike E-commerce**  
-Full-stack e-commerce platform with:  
-✔️ Responsive design using **Tailwind CSS**  
-✔️ Secure payment integration  
-✔️ User authentication and authorization  
-✔️ **Tech Stack:** React, Express.js, MongoDB, Stripe  
-
----
 
 ## 📈 GitHub Stats  
 
