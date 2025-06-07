@@ -14,7 +14,7 @@ I'm a **first-year B.Tech CSE** student at **Bennett University**, passionate ab
 - 🔭 Currently working on **StudySync** – A real-time collaborative study platform  
 - 🌱 Learning **Backend Development** and **Blockchain Technologies**  
 - 💡 Interested in **MERN Stack**, **TypeScript**, and **Next.js**  
-- 🎯 **2025 Goals**: Contribute more to Open Source projects  
+- 🎯 **2025 Goals**: Contribute more to Open Source projects & get better at Development
 
 ---
 
