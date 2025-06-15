@@ -97,7 +97,7 @@ I'm a **second-year B.Tech CSE** student at **Bennett University** and a passion
 ✔️ **Client portal** with project tracking & invoicing  
 ✔️ **Time tracking** with automated billing  
 ✔️ **Payment gateway** integration (Stripe, PayPal)  
-✔️ **Document management** with version control  
+✔️ **Document management** with version control   
 ✔️ **Tech Stack:** Next.js, TypeScript, Prisma, PostgreSQL  
 
 ---
