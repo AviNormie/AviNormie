@@ -16,7 +16,7 @@ I'm a **second-year B.Tech CSE** student at **Bennett University** and a passion
 - 💼 **Available for Freelance Projects** - Let's build something amazing together!
 - 🔭 Currently working on **StudySync** – A real-time collaborative study platform  
 - 🌱 Exploring **Blockchain Technologies** and **DevOps** practices
-- 🎯 **2025 Goals**: Scale my freelance business & contribute to major Open Source projects
+- 🎯 **2025 Goals**: Scale my freelance & contribute to major Open Source projects
 
 ---
 
