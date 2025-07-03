@@ -124,9 +124,6 @@ I'm a **second-year B.Tech CSE** student at **Bennett University** and a passion
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AviNormie&theme=radical" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AviNormie&layout=compact&theme=radical" alt="Top Languages" />
-</div>
 
 ---
 
