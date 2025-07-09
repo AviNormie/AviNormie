@@ -9,7 +9,7 @@
 
 ## 🎓 About Me  
 
-I'm a **second-year B.Tech CSE** student at **Bennett University** and a passionate **Full-Stack Developer** specializing in modern web and mobile technologies. When I'm not crafting scalable applications, you'll find me **strategizing over a chessboard** or **dominating the badminton court**!  
+I'm a **second-year B.Tech CSE** student at **Bennett  University** and a passionate **Full-Stack Developer** specializing in modern web and mobile technologies. When I'm not crafting scalable applications, you'll find me **strategizing over a chessboard** or **dominating the badminton court**!  
 
 - 🚀 **Full-Stack Developer** with expertise in **MERN Stack** & **Next.js**
 - 📱 **Mobile App Developer** using **React Native**
