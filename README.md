@@ -107,7 +107,7 @@ I'm a **second-year B.Tech CSE** student at **Bennett  University** and a passio
 🚀 **Available for hire!** I specialize in:  
 
 - **🌐 Full-Stack Web Development** (MERN, Next.js)
-- **📱 Mobile App Development** (React Native)
+- **📱 Mobile App Development** (React Native) 
 - **🎨 UI/UX Implementation** (Pixel-perfect designs)
 - **🔧 API Development & Integration**
 - **⚡ Performance Optimization**
