@@ -68,6 +68,27 @@
 
 # 🔥 Featured Projects
 
+## 🧠 Cyted — AI Visibility Platform
+
+**AI visibility platform that helps businesses understand how their brand appears across modern AI assistants and LLMs.**
+
+Cyted analyzes AI-generated responses across platforms such as ChatGPT, Gemini, Claude, Perplexity, and other LLMs to measure brand visibility, recommendations, competitors, and positioning.
+
+### Highlights
+
+- 🤖 LLM-based brand visibility analysis
+- 🔎 Automated prompt generation across multiple categories
+- 🧠 AI response evaluation and competitor analysis
+- ⚙️ Background processing for large-scale AI queries
+- 🚀 Redis + BullMQ worker architecture
+- 📊 Visibility and positioning analytics
+- 🌐 Multi-model AI evaluation pipeline
+
+🔗 **Live:** https://cyted-neon.vercel.app/
+
+
+---
+
 ## 📈 StockFlow
 
 **Distributed real-time stock market infrastructure built with Go, Kafka, Redis, WebSockets, and Kubernetes.**
@@ -88,6 +109,7 @@ StockFlow is designed around an event-driven architecture for ingesting, process
 🔗 **Live:** https://stock-flow-liard.vercel.app/  
 🔗 **API Docs:** https://stock-flow-liard.vercel.app/api/docs
 
+
 ---
 
 ## 🌾 Vanik
@@ -105,6 +127,71 @@ Vanik combines domain-specific AI agents with retrieval-based systems to provide
 - 🦠 Crop disease detection using Indian leaf datasets
 - 🗣️ Multilingual voice responses using Google TTS
 
+
+---
+
+## 🌐 Influmojo — Brand & Influencer Marketplace
+
+**Production-grade brand–influencer marketplace built across web and mobile.**
+
+The platform connects brands and creators through structured discovery, collaboration, and marketplace workflows.
+
+### Highlights
+
+- 🌐 Next.js web application
+- 📱 React Native mobile application
+- ⚙️ Node.js / NestJS backend
+- 🗄️ PostgreSQL + Prisma
+- 🔐 Authentication and role-based access control
+- ⚡ Real-time interactions
+- 📊 Scalable API architecture
+
+🔗 **Live:** https://influmojo.com/landing
+
+
+---
+
+## 🎓 Workpunkt — Student Management Platform
+
+**End-to-end platform for managing international student admissions and education workflows.**
+
+Workpunkt centralizes student onboarding, applications, counselling, documentation, and administrative workflows for organizations operating in the international education ecosystem.
+
+### Highlights
+
+- 🎓 Student and application management
+- 👥 Counsellor and agent workflows
+- 📄 Document and application tracking
+- 🔐 Role-based access control
+- ⚙️ Backend APIs and business workflows
+- 📊 Administrative dashboards
+- 🌐 Production SaaS platform
+
+🔗 **Live:** https://www.workpunkt.com/
+
+
+---
+
+## 📊 Sapphire Broking — Financial Trading Platform
+
+**Production financial services platform with trading dashboards, client portals, and market-data integrations.**
+
+Worked across the frontend and backend to build scalable APIs, financial workflows, interactive dashboards, and high-performance user experiences.
+
+### Highlights
+
+- 📈 Trading dashboards
+- 📊 Interactive market charts
+- 🔌 Market-data and API integrations
+- ⚡ High-performance backend APIs
+- 🗄️ Database optimization
+- 🔐 Secure client workflows
+- 📱 Responsive web applications
+- 📉 TradingView chart integration
+
+🔗 **Live:** https://www.sapphirebroking.com/
+
+
 ---
 
 ## 🎟️ Cloud-Native Event Management Platform
@@ -118,10 +205,10 @@ Vanik combines domain-specific AI agents with retrieval-based systems to provide
 - 🎟️ Event and attendee management
 - ⚙️ Automated CI/CD pipelines
 - 🐳 Dockerized backend services
+- ☸️ Kubernetes-ready infrastructure
 - 📱 Cross-platform mobile application using React Native
 
 🔗 **Android App:** https://play.google.com/store/apps/details?id=com.vishu.events
-
 ---
 
 # 📊 GitHub Stats
